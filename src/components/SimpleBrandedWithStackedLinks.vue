@@ -30,10 +30,10 @@
 
 <script>
 const navigation = [
-  { name: 'Solutions', href: '#' },
-  { name: 'Pricing', href: '#' },
-  { name: 'Docs', href: '#' },
-  { name: 'Company', href: '#' },
+  { name: 'Home', href: '#' },
+  { name: 'About', href: '#' },
+  { name: 'Services', href: '#' },
+  { name: 'Gallery', href: '#' },
 ]
 
 export default {
