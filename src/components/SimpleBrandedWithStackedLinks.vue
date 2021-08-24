@@ -6,7 +6,7 @@
         <div class="flex items-center">
           <a href="#">
             <span class="sr-only">Workflow</span>
-            <img class="h-10 w-auto" src="https://tailwindui.com/img/logos/workflow-mark.svg?color=black" alt="" />
+            <img class="h-10 w-auto" src="../assets/Asset1.png" alt="" />
           </a>
           <div class="hidden ml-10 space-x-8 lg:block">
             <a v-for="link in navigation" :key="link.name" :href="link.href" class="text-base font-medium text-gray-800 hover:text-indigo-500">
