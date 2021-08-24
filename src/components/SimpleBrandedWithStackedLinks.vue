@@ -6,7 +6,7 @@
         <div class="flex items-center">
           <a href="#">
             <span class="sr-only">Workflow</span>
-            <img class="h-14 w-auto" src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/ThePlantLadyLogo.png?alt=media&token=f2151587-0f8f-4892-b231-492405b19ae0" alt="" />
+            <img class="h-14 w-auto" src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/ThePlantLadyIcon.png?alt=media&token=e509c914-7b06-4609-8c78-4c63c33b28a2" alt="" />
             
             <!-- <img class="h-10 w-auto" src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/Logo%402x.png?alt=media&token=d88546cd-c8c4-4d8f-9164-504c3a476012" alt="" /> -->
           </a>
