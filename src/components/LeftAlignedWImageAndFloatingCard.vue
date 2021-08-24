@@ -1,7 +1,7 @@
 <template>
     <!-- Mobile Responsive starts -->
-    <div class="mx-auto container px-2 lg:px-0">
-        <nav class="hidden lg:block">
+    <!-- <div class="mx-auto container px-2 lg:px-0"> -->
+        <!-- <nav class="hidden lg:block">
             <div class="flex justify-between items-center py-10 lg:pt-20">
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="190" height="36" viewBox="0 0 190 36" fill="none">
@@ -18,9 +18,9 @@
                     <a href="#"> <div class="cursor-pointer">Collections</div></a>
                 </div>
             </div>
-        </nav>
+        </nav> -->
         <!-- Mobile Responsive -->
-        <nav class="lg:hidden">
+        <!-- <nav class="lg:hidden">
             <div class="flex py-2 justify-between items-center px-4">
                 <div class="cursor-pointer">
                     <a href="#">
@@ -71,8 +71,8 @@
                     </div>
                 </div>
             </div>
-        </nav>
-    </div>
+        </nav> -->
+    <!-- </div> -->
     <!-- Mobile Responsive -->
     <div class="mx-auto container h-full">
         <div class="relative w-full h-screen lg:flex items-center justify-between">

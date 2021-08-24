@@ -1,6 +1,6 @@
 <script setup>
 import ButtonRepo from '@/components/ButtonRepo.vue'
-// import LeftAlignedWImageAndFloatingCard from '@/components/LeftAlignedWImageAndFloatingCard.vue'
+import LeftAlignedWImageAndFloatingCard from '@/components/LeftAlignedWImageAndFloatingCard.vue'
 import SimpleBrandedWithStackedLinks from '@/components/SimpleBrandedWithStackedLinks.vue'
 
 </script>
@@ -12,7 +12,7 @@ import SimpleBrandedWithStackedLinks from '@/components/SimpleBrandedWithStacked
       <!-- <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
         <h1 class="text-3xl font-bold leading-tight text-gray-900">{{ $route.meta.title }}</h1>
       </div> -->
-        <!-- <LeftAlignedWImageAndFloatingCard /> -->
+        <LeftAlignedWImageAndFloatingCard />
     </header>
     <main>
       <router-view/>
