@@ -1,5 +1,6 @@
 <script setup>
 import ButtonRepo from '@/components/ButtonRepo.vue'
+import LeftAlignedWImageAndFloatingCard from '@/components/LeftAlignedWImageAndFloatingCard.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import ButtonRepo from '@/components/ButtonRepo.vue'
         <br />
         <span class="text-indigo-600">Vite + Vue 3 + Tailwind CSS</span>
       </h2>
+      <LeftAlignedWImageAndFloatingCard />
       <div class="flex mt-8 lg:flex-shrink-0 lg:mt-0">
         <div class="inline-flex rounded-md shadow">
           <router-link
