@@ -90,9 +90,6 @@
                 </div>
             </div>
             <div class="flex flex-row lg:w-1/2 absolute justify-between">
-<div class="py-12 lg:py-16 px-8 lg:px-16 lg:w-full z-30">
-              <img src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/ThePlantLadyIcon.png?alt=media&token=e509c914-7b06-4609-8c78-4c63c33b28a2" alt="" class="w-full relative z-10" />
-</div>
                 <div class="py-12 lg:py-16 px-8 lg:px-16 background-color text-white lg:w-full z-30">
                     <h1 class="text-2xl lg:text-6xl leading-normal font-bold tracking-wide f-f-d-s">We Love your Plants</h1>
                     <p class="text-base lg:text-2xl font-normal tracking-tight leading-7 py-8 f-f-l">Vestibulum placerat scelerisque turpis, ut laoreet erat varius ut. Phasellus eleifend vitae augue a accumsan. Sed eu semper lorem.</p>
