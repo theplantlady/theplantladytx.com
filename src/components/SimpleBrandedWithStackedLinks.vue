@@ -6,9 +6,7 @@
         <div class="flex items-center">
           <a href="#">
             <span class="sr-only">Workflow</span>
-            <img class="h-14 w-auto" src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/ThePlantLadyIcon.png?alt=media&token=e509c914-7b06-4609-8c78-4c63c33b28a2" alt="" />
-            
-            <!-- <img class="h-10 w-auto" src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/Logo%402x.png?alt=media&token=d88546cd-c8c4-4d8f-9164-504c3a476012" alt="" /> -->
+            <img class="h-16 w-auto" src="https://firebasestorage.googleapis.com/v0/b/xsqrd-inc.appspot.com/o/ThePlantLadyText.png?alt=media&token=5237c0f6-08ad-4a36-bf70-f64e38158bd5" alt="" />
           </a>
           <div class="hidden ml-10 space-x-8 lg:block">
             <a v-for="link in navigation" :key="link.name" :href="link.href" class="text-base font-medium text-gray-800 hover:text-indigo-500">
