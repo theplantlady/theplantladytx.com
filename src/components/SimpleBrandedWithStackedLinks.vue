@@ -1,6 +1,6 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <template>
-  <header style="background-color: #edeeef">
+  <header class="bg-gray-100">
     <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Top">
       <div class="w-full py-2 flex items-center justify-between border-b border-gray-500 lg:border-none">
         <div class="flex items-center">
